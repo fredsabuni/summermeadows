@@ -93,32 +93,11 @@ class Footer extends HTMLElement {
                         <a class="btn btn-link dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">Valuation</a> 
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                         <li><a class="dropdown-item" href="./assets/S&U Nova 2680 Project Value.pdf" download="S&UNova2680ProjectValue.pdf" target="_blank">Independent Valuation</a></li>
-                        <li><a class="dropdown-item" href="./assets/RKW- Lease up Budget Nova Summer Meadows.xlsm" download="BudgetNovaRTP2680.xlsm">Property Management Underwriting</a></li>
-                        <li><a class="dropdown-item" href="./assets/Capital Stack Underwriting.xlsx" download="CapitalStackUnderwriting.xlsx">Capital Stack Underwriting</a></li>  
-                        </ul>
-                    </div>
-                    <div class="dropdown">
-                        <a class="btn btn-link dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">Blueprint</a> 
-                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                        <li><a class="dropdown-item" href="https://drive.google.com/file/d/1KRlnIkXV7bo43kNmsttsOGfqV55fTuiZ/view?usp=sharing" download="ArchitectureDrawings.pdf" target="_blank">Architecture Drawings</a></li>
-                        <li><a class="dropdown-item" href="https://drive.google.com/file/d/1-O08qDWUAvwBLdJMBePzq2TgeYxBLZLf/view?usp=sharing" download="CivilDrawings.pdf" target="_blank">Civil Drawings</a></li>  
-                        </ul>
-                    </div>
-                    <div class="dropdown">
-                        <a class="btn btn-link dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">Phase 1 Reports</a> 
-                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                        <li><a class="dropdown-item" href="./assets/2624 NC 55.pdf" download="EnvironmentalAssessment.pdf" target="_blank" >Environmental Assessment</a></li>
-                        <li><a class="dropdown-item" href="./assets/2624 NC 55 concept plan 2018-03-16  Apex Concept - Alt 5.pdf" download="SiteReport.pdf" target="_blank">Site Report</a></li>    
+                        <li><a class="dropdown-item" href="./assets/RKW- Lease up Budget Nova RTP 2680.xlsm" download="BudgetNovaRTP2680.xlsm" target="_blank">Property Management Underwriting</a></li>
+                        <li><a class="dropdown-item" href="./assets/AppraisalReport.pdf" download="AppraisalReport.pdf" target="_blank">Appraisal Report</a></li>  
+                        <li><a class="dropdown-item" href="./assets/CostToComplete.pdf" download="CostToComplete.pdf" target="_blank">Cost To Complete</a></li>  
                         </ul>
                     </div> 
-                    <div class="dropdown">
-                        <a class="btn btn-link dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">Subscription</a> 
-                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                        <li><a class="dropdown-item" href="./assets/Nova Summer Meadows LLC - Operating Agreement.pdf" download="OperatingAgreement.pdf" target="_blank" >Operating Agreement</a></li>
-                        <li><a class="dropdown-item" href="./assets/Nova Summer Meadows LLC - PPM.pdf" download="PPM.pdf" target="_blank">PPM</a></li>  
-                        <li><a class="dropdown-item" href="./assets/Nova Summer Meadows LLC - Subscription Agreement.pdf" download="SubscriptionAgreement.pdf" target="_blank">Subscription Agreement</a></li>  
-                        </ul>
-                    </div>  
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h3 class="text-light mb-4" style="font-family: 'Montserrat' sans-serif;">Quick Links</h3>  

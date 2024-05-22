@@ -5,7 +5,7 @@ class Header extends HTMLElement{
 
     connectedCallback(){
         this.innerHTML = ` 
-        
+
         <!-- Topbar Start -->
         <div class="container-fluid bg-dark p-0 wow fadeIn" data-wow-delay="0.1s">
             <div class="row gx-0 d-none d-lg-flex">
@@ -48,7 +48,7 @@ class Header extends HTMLElement{
                     <a href="gallery.html" class="nav-item nav-link" style="font-size: 14px;">Gallery</a> 
                     <a href="contact.html" class="nav-item nav-link" style="font-size: 14px;">Contact</a>
                 </div> 
-                <a href="https://drive.google.com/drive/folders/11DG5vSe3KlQY55Nl7qd5WDOuEGJTEA53?usp=sharing" class="btn btn-primary py-2 px-4 d-none d-lg-block" target="_blank"><i class="fas fa-folder"></i> Project Resources</a>
+                <a href="https://drive.google.com/drive/folders/1YAT0iEScW9bE8_EBcKMN3_qyS3QkkRhH?usp=sharing" class="btn btn-primary py-2 px-4 d-none d-lg-block" target="_blank"><i class="fas fa-folder"></i> Project Resources</a>
             </div>
         </nav>
         <!-- Navbar End -->
